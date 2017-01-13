@@ -1,6 +1,6 @@
 %   The system is from the literature:
 %  	 A new hyperchaotic system and its adaptive tracking control.         
-%  	 Li Chun-Lai and Yu Si-Min, Acta Physica Sinica, 61(4):22¨C28, 2012.
+%  	 Li Chun-Lai and Yu Si-Min, Acta Physica Sinica, 61(4):22-28, 2012.
 function k = hyper_chaotic_system(mn)
 x1(1,1) = 0.12; %    +1e-15; 
 x2(1,1) = 0.23; 
